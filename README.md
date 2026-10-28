@@ -88,9 +88,8 @@ seasonal-sales-trend-analysis/
 
 ```
 
-- `data/Seasonal_Sales_Dataset.xlsx` – dataset, Seasonal Index sheet and dashboard workbook
-- `images/dashboard_preview.png` – dashboard screenshot
-- `reports/` – project report and presentation
+- `Seasonal_Sales_Dataset.xlsx` – dataset, Seasonal Index sheet and dashboard workbook
+
 
 ## How to Use
 
